@@ -1,4 +1,4 @@
-c:\Users\NAZRUL\Desktop\wificonnect\output\libraries\ESP8266WiFi\BearSSLHelpers.cpp.o: \
+c:\Users\NAZRUL\Documents\GitHub\AnabaaNazrul.github.io\output\libraries\ESP8266WiFi\BearSSLHelpers.cpp.o: \
  C:\Users\NAZRUL\AppData\Local\Arduino15\packages\esp8266\hardware\esp8266\3.0.1\libraries\ESP8266WiFi\src\BearSSLHelpers.cpp \
  C:\Users\NAZRUL\AppData\Local\Arduino15\packages\esp8266\hardware\esp8266\3.0.1\libraries\ESP8266WiFi\src\BearSSLHelpers.h \
  C:\Users\NAZRUL\AppData\Local\Arduino15\packages\esp8266\hardware\esp8266\3.0.1/tools/sdk/include/bearssl/bearssl.h \
@@ -61,4 +61,4 @@ c:\Users\NAZRUL\Desktop\wificonnect\output\libraries\ESP8266WiFi\BearSSLHelpers.
  C:\Users\NAZRUL\AppData\Local\Arduino15\packages\esp8266\hardware\esp8266\3.0.1\cores\esp8266/WString.h \
  C:\Users\NAZRUL\AppData\Local\Arduino15\packages\esp8266\hardware\esp8266\3.0.1\cores\esp8266/Stream.h \
  C:\Users\NAZRUL\AppData\Local\Arduino15\packages\esp8266\hardware\esp8266\3.0.1\cores\esp8266/md5.h \
- c:\Users\NAZRUL\Desktop\wificonnect\output/core/Updater_Signing.h
+ c:\Users\NAZRUL\Documents\GitHub\AnabaaNazrul.github.io\output/core/Updater_Signing.h

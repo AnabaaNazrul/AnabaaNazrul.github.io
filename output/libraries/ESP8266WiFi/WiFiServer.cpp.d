@@ -1,4 +1,4 @@
-c:\Users\NAZRUL\Desktop\wificonnect\output\libraries\ESP8266WiFi\WiFiServer.cpp.o: \
+c:\Users\NAZRUL\Documents\GitHub\AnabaaNazrul.github.io\output\libraries\ESP8266WiFi\WiFiServer.cpp.o: \
  C:\Users\NAZRUL\AppData\Local\Arduino15\packages\esp8266\hardware\esp8266\3.0.1\libraries\ESP8266WiFi\src\WiFiServer.cpp \
  C:\Users\NAZRUL\AppData\Local\Arduino15\packages\esp8266\hardware\esp8266\3.0.1/tools/sdk/include/osapi.h \
  C:\Users\NAZRUL\AppData\Local\Arduino15\packages\esp8266\hardware\esp8266\3.0.1\cores\esp8266/user_config.h \

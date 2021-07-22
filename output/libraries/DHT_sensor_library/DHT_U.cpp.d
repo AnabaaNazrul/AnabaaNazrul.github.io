@@ -1,4 +1,4 @@
-c:\Users\NAZRUL\Desktop\wificonnect\output\libraries\DHT_sensor_library\DHT_U.cpp.o: \
+c:\Users\NAZRUL\Documents\GitHub\AnabaaNazrul.github.io\output\libraries\DHT_sensor_library\DHT_U.cpp.o: \
  C:\Users\NAZRUL\Documents\Arduino\libraries\DHT_sensor_library\DHT_U.cpp \
  C:\Users\NAZRUL\Documents\Arduino\libraries\DHT_sensor_library\DHT_U.h \
  C:\Users\NAZRUL\Documents\Arduino\libraries\Adafruit_Unified_Sensor/Adafruit_Sensor.h \

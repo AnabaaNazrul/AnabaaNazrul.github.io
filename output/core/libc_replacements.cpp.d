@@ -1,4 +1,4 @@
-c:\Users\NAZRUL\Desktop\wificonnect\output\core\libc_replacements.cpp.o: \
+c:\Users\NAZRUL\Documents\GitHub\AnabaaNazrul.github.io\output\core\libc_replacements.cpp.o: \
  C:\Users\NAZRUL\AppData\Local\Arduino15\packages\esp8266\hardware\esp8266\3.0.1\cores\esp8266\libc_replacements.cpp \
  C:\Users\NAZRUL\AppData\Local\Arduino15\packages\esp8266\hardware\esp8266\3.0.1/tools/sdk/include/ets_sys.h \
  C:\Users\NAZRUL\AppData\Local\Arduino15\packages\esp8266\hardware\esp8266\3.0.1/tools/sdk/include/c_types.h \
