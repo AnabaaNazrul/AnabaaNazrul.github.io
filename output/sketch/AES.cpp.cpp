@@ -127,15 +127,15 @@ static void inv_shift_sub_rows(byte st[(4 * 4)]);
 static void mix_sub_columns(byte dt[(4 * 4)], byte st[(4 * 4)]);
 #line 208 "c:\\Users\\NAZRUL\\Documents\\GitHub\\AnabaaNazrul.github.io\\AES.cpp"
 static void inv_mix_sub_columns(byte dt[(4 * 4)], byte st[(4 * 4)]);
-#line 18 "c:\\Users\\NAZRUL\\Documents\\GitHub\\AnabaaNazrul.github.io\\wificonnect.ino"
+#line 19 "c:\\Users\\NAZRUL\\Documents\\GitHub\\AnabaaNazrul.github.io\\wificonnect.ino"
 uint8_t getrnd();
-#line 24 "c:\\Users\\NAZRUL\\Documents\\GitHub\\AnabaaNazrul.github.io\\wificonnect.ino"
+#line 25 "c:\\Users\\NAZRUL\\Documents\\GitHub\\AnabaaNazrul.github.io\\wificonnect.ino"
 void gen_iv(byte *iv);
-#line 30 "c:\\Users\\NAZRUL\\Documents\\GitHub\\AnabaaNazrul.github.io\\wificonnect.ino"
+#line 31 "c:\\Users\\NAZRUL\\Documents\\GitHub\\AnabaaNazrul.github.io\\wificonnect.ino"
 void setup();
-#line 51 "c:\\Users\\NAZRUL\\Documents\\GitHub\\AnabaaNazrul.github.io\\wificonnect.ino"
+#line 52 "c:\\Users\\NAZRUL\\Documents\\GitHub\\AnabaaNazrul.github.io\\wificonnect.ino"
 String sensorUpdate();
-#line 71 "c:\\Users\\NAZRUL\\Documents\\GitHub\\AnabaaNazrul.github.io\\wificonnect.ino"
+#line 72 "c:\\Users\\NAZRUL\\Documents\\GitHub\\AnabaaNazrul.github.io\\wificonnect.ino"
 void loop();
 #line 112 "c:\\Users\\NAZRUL\\Documents\\GitHub\\AnabaaNazrul.github.io\\AES.cpp"
 static byte s_box (byte x)
@@ -641,6 +641,7 @@ double AES::millis(){
 DHT dht(DHTPIN, DHTTYPE);
 
 const char* serverName = "http://192.168.43.23:5000/";
+
 
 AES aes;
 

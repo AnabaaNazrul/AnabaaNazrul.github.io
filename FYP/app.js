@@ -6,7 +6,7 @@ app.use(cors())
 
 app.use(express.json());
 
-var data = "IoT Temperature and Humidity data sensor";
+var data = "Hello world";
 
 
 app.get('/', (req, res) => {
