@@ -690,7 +690,7 @@ String sensorUpdate(){
 
   
   String result = "Humidity: " + String(h)+"%";
-  String result2 ="   Temperature: " + String(t)+"Celsius";
+  String result2 ="   Temperature: " + String(t)+" Celsius ";
 
   String result_last = result + result2;
 
